@@ -45,7 +45,6 @@
                     "numinlets": 1,
                     "numoutlets": 0,
                     "patching_rect": [ 458.0, 298.3262032085561, 133.0, 20.0 ],
-                    "presentation_linecount": 2,
                     "text": "Fixed Modulation Index"
                 }
             },
@@ -251,8 +250,8 @@
                     "maxclass": "comment",
                     "numinlets": 1,
                     "numoutlets": 0,
-                    "patching_rect": [ 256.6844919786096, 284.7696335078534, 100.0, 20.0 ],
-                    "text": "Modulation"
+                    "patching_rect": [ 256.6844919786096, 284.7696335078534, 99.0, 20.0 ],
+                    "text": "Modulation Ratio"
                 }
             },
             {
@@ -261,8 +260,8 @@
                     "maxclass": "comment",
                     "numinlets": 1,
                     "numoutlets": 0,
-                    "patching_rect": [ 197.26470588235296, 250.0, 100.0, 20.0 ],
-                    "text": "Carrier Multiplier"
+                    "patching_rect": [ 197.26470588235296, 250.0, 77.0, 20.0 ],
+                    "text": "Carrier Ratio"
                 }
             },
             {
