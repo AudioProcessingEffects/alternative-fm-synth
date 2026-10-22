@@ -67,7 +67,7 @@
                     "patching_rect": [ 441.0, 324.0, 18.0, 34.0 ],
                     "shape": 2,
                     "size": 2,
-                    "value": 0
+                    "value": 1
                 }
             },
             {
@@ -282,8 +282,8 @@
                     "maxclass": "comment",
                     "numinlets": 1,
                     "numoutlets": 0,
-                    "patching_rect": [ 252.8202614379085, 276.58730158730157, 99.0, 20.0 ],
-                    "text": "Modulation Ratio"
+                    "patching_rect": [ 252.8202614379085, 276.58730158730157, 26.0, 20.0 ],
+                    "text": "Fm"
                 }
             },
             {
@@ -292,8 +292,8 @@
                     "maxclass": "comment",
                     "numinlets": 1,
                     "numoutlets": 0,
-                    "patching_rect": [ 197.26470588235296, 250.0, 77.0, 20.0 ],
-                    "text": "Carrier Ratio"
+                    "patching_rect": [ 197.26470588235296, 250.0, 22.0, 20.0 ],
+                    "text": "Fc"
                 }
             },
             {
